@@ -11,6 +11,7 @@ group :assets do
 end
 
 gem 'awesome_print'
+gem 'bootstrap-sass', '2.0.0'
 gem 'jquery-rails'
 gem 'pg'
 
