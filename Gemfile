@@ -10,8 +10,10 @@ group :assets do
   gem 'uglifier', '>= 1.0.3'
 end
 
+gem 'annotate'
 gem 'awesome_print'
 gem 'bootstrap-sass', '2.0.0'
+gem 'bcrypt-ruby', '3.0.1'
 gem 'jquery-rails'
 gem 'pg'
 
