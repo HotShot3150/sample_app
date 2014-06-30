@@ -65,6 +65,11 @@ GEM
     erubis (2.7.0)
     eventmachine (1.0.3)
     execjs (2.2.0)
+    factory_girl (2.3.2)
+      activesupport
+    factory_girl_rails (1.4.0)
+      factory_girl (~> 2.3.0)
+      railties (>= 3.0.0)
     ffi (1.9.3)
     formatador (0.2.5)
     guard (2.6.1)
@@ -195,6 +200,7 @@ DEPENDENCIES
   capybara
   capybara-webkit
   coffee-rails (~> 3.2.1)
+  factory_girl_rails (= 1.4.0)
   guard (>= 2.1.0)
   guard-annotate
   guard-livereload

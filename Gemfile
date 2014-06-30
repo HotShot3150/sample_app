@@ -28,3 +28,7 @@ group :development, :test do
   gem "capybara"
   gem "capybara-webkit"
 end
+
+group :test do
+  gem 'factory_girl_rails', '1.4.0'
+end
