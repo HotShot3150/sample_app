@@ -27,6 +27,7 @@ group :development, :test do
   gem "guard-livereload"  
   gem "capybara"
   gem "capybara-webkit"
+  gem "launchy"
 end
 
 group :test do
